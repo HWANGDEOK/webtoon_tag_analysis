@@ -13,7 +13,7 @@
 ## 🛠️ 2. 기술 스택
 
 - **Language**: Python(3.14.3)
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Selenium, Undetected-Chromeriver
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Selenium, WordCloud, Undetected-Chromeriver
 
 
 ## 📝 3. 데이터 전처리
